@@ -4,3 +4,13 @@
 2015/12/29 05:00:33 heroku-cli: Installing core plugins...
 2015/12/29 05:00:45  done
 2015/12/29 05:00:45 running heroku-cli/4.27.9-cce0260 (amd64-linux) go1.5.2 from /home/nitrous/.heroku/heroku-cli
+2016/03/25 12:21:09 running heroku-cli/4.27.9-cce0260 (amd64-linux) go1.5.2 from /home/nitrous/.heroku/heroku-cli
+2016/03/25 12:21:09 running heroku-cli/4.27.9-cce0260 (amd64-linux) go1.5.2 from /home/nitrous/.heroku/heroku-cli
+2016/03/25 12:21:09 running heroku-cli/4.27.9-cce0260 (amd64-linux) go1.5.2 from /home/nitrous/.heroku/heroku-cli
+2016/03/25 12:21:09 running heroku-cli/4.27.9-cce0260 (amd64-linux) go1.5.2 from /home/nitrous/.heroku/heroku-cli
+2016/03/25 12:21:10 running heroku-cli/4.27.9-cce0260 (amd64-linux) go1.5.2 from /home/nitrous/.heroku/heroku-cli
+2016/03/25 12:21:10 Email: 
+2016/03/25 12:21:10 Updating Heroku v4 CLI to 4.28.2-9156ffa (master)... 
+2016/03/25 12:21:10 done
+2016/03/25 12:21:10 Updating plugins... 
+2016/03/25 12:21:33 Error reading plugin heroku-run. Reinstalling... 
